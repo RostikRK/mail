@@ -1,0 +1,19 @@
+textarea {
+    min-height: 400px;
+}
+
+
+.email-div-view {
+    display: flexbox;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+@media (min-width: 1500px) {
+    .container {
+        max-width: 1450px;
+    }
+}
